@@ -10,7 +10,10 @@
     <packaging>pom</packaging>
     <version>0.0.1</version>
     <modules>
+        <module>base-api</module>
         <module>jndi-base</module>
+        <module>jndi-rmi-server</module>
+        <module>jndi-rmi-client</module>
     </modules>
 
     <properties>
