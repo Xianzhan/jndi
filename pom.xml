@@ -14,6 +14,8 @@
         <module>jndi-base</module>
         <module>jndi-rmi-server</module>
         <module>jndi-rmi-client</module>
+        <module>jndi-ldap-server</module>
+        <module>jndi-ldap-client</module>
     </modules>
 
     <properties>
